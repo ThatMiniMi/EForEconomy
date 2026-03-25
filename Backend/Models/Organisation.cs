@@ -11,4 +11,5 @@ public class Organisation
     public string City { get; set; } = string.Empty;
     public string Country { get; set; } = string.Empty;
     public string PhoneNumber { get; set; } = string.Empty;
+    public byte[] Logo { get; set; } = null!;
 }

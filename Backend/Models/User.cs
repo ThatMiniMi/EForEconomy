@@ -14,4 +14,5 @@ public class User
     public string Email { get; set; } = string.Empty;
     public string PasswordHash { get; set; } = null!;
     public int OrganisationId { get; set; }
+    public byte[] ProfilePicture { get; set; } = null!;
 }
