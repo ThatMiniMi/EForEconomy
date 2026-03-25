@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mygli\\OneDrive\\Dokument\\GitHub\\EForEconomy\\backend\\Backend.csproj": {}
+    "C:\\Users\\mygli\\OneDrive\\Dokument\\GitHub\\EForEconomy\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mygli\\OneDrive\\Dokument\\GitHub\\EForEconomy\\backend\\Backend.csproj": {
+    "C:\\Users\\mygli\\OneDrive\\Dokument\\GitHub\\EForEconomy\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mygli\\OneDrive\\Dokument\\GitHub\\EForEconomy\\backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\mygli\\OneDrive\\Dokument\\GitHub\\EForEconomy\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\mygli\\OneDrive\\Dokument\\GitHub\\EForEconomy\\backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\mygli\\OneDrive\\Dokument\\GitHub\\EForEconomy\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\mygli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mygli\\OneDrive\\Dokument\\GitHub\\EForEconomy\\backend\\obj\\",
+        "outputPath": "C:\\Users\\mygli\\OneDrive\\Dokument\\GitHub\\EForEconomy\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

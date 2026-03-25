@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "URBvzUKCuZA=",
+  "dgSpecHash": "TVujq5pNcew=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mygli\\OneDrive\\Dokument\\GitHub\\EForEconomy\\backend\\Backend.csproj",
+  "projectFilePath": "C:\\Users\\mygli\\OneDrive\\Dokument\\GitHub\\EForEconomy\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mygli\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mygli\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
