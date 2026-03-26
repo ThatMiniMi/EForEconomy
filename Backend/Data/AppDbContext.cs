@@ -14,4 +14,9 @@ public class AppDbContext : DbContext
     public DbSet<Organisation> Organisations { get; set; } = null!;
     public DbSet<User> Users { get; set; } = null!;
     public DbSet<WorkSession> WorkSessions { get; set; } = null!;
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+    }
 }
